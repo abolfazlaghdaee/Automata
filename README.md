@@ -1,2 +1,2 @@
 # Automata
-final project of Automa 
+final project of Automata 
