@@ -1,7 +1,7 @@
 # Automata
 final project of Automata 
 
-##How to Run:
+## How to Run:
 
 after save the files, you can run the file by:
 ```
